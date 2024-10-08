@@ -5,8 +5,17 @@ function App() {
     return < >
     TG BOT
         <
-        Button title = { 'Test' }
+        Button title = { 'Add' }
     disable = { false }
+    type = { 'add' }
+    /> <
+    Button title = { 'remove' }
+    disable = { false }
+    type = { 'remove' }
+    /> <
+    Button title = { 'checkout' }
+    disable = { false }
+    type = { 'checkout' }
     /> <
     />
 

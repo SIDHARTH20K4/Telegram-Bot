@@ -53,3 +53,11 @@
 .btn.remove:active {
     background-color: rgb(183, 73, 54);
 }
+
+.btn.checkout:hover {
+    background-color: rgb(41, 141, 41);
+}
+
+.btn.checkout:active {
+    background-color: rgb(41, 141, 41);
+}
