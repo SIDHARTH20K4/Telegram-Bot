@@ -3,20 +3,19 @@ import Button from './components/button.jsx'
 
 function App() {
     return < >
-    TG BOT
-        <
+        TG BOT <
         Button title = { 'Add' }
     disable = { false }
     type = { 'add' }
-    /> <
+    />  <
     Button title = { 'remove' }
     disable = { false }
     type = { 'remove' }
-    /> <
+    />  <
     Button title = { 'checkout' }
     disable = { false }
     type = { 'checkout' }
-    /> <
+    />  <
     />
 
 }
