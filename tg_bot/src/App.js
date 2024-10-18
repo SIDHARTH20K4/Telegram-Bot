@@ -2,7 +2,7 @@ import './App.css';
 import Button from './components/button.jsx'
 import Card from './components/card.jsx'
 const { getData } = require('./DB/db.js');
-const food = getData();
+const foods = getData();
 
 function App() {
     return ( <

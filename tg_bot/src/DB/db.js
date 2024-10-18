@@ -6,7 +6,7 @@ import water from "../images/water.png";
 import kebab from "../images/kebab.png";
 import iceCream from "../images/icecream.png";
 
-export default function getData() {
+export function getData() {
     return [
         { title: "pizza", price: 189, image: pizza },
         { title: "burger", price: 129, image: burger },
