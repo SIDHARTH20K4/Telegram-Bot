@@ -8,7 +8,7 @@ const foods = getData();
 
 function App() {
 
-    //const [cartItems,setCartItems] = useState([]);
+    const [cartItems, setCartItems] = useState([]);
     return ( <
         >
         TG BOT <
